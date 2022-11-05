@@ -2,7 +2,7 @@
 
 # Device
 export FOX_BRANCH="v3_10.0"
-export DT_LINK="https://github.com/Mikesew1320/TECNO-CD6-TWRP-Tree"
+export DT_LINK="https://github.com/Mikesew1320/TECNO-CD6-OFRP-Tree"
 
 export DEVICE="CD6"
 export OEM="tecno"
